@@ -3,7 +3,7 @@
 This web app use : 
 - expressJS for the backend
 - ReactJS for the frontend
-- API with newapi
+- API with newsapi
 - MongoDB & Mongoose
 - Token and crypt password
 
@@ -32,7 +32,7 @@ This web app use :
 
   http://localhost:3000
   
-## the frondend (reactJS)
+## the frontend (reactJS)
 
   npm install --global create-react-app
   
